@@ -1,6 +1,40 @@
-# 💫 About Me:
+# 💫 Hi there, I`m Alex Down Below Info About Me:
 
-🧑‍💻 I’m currently working on sharpening my frontend skills and diving deeper into backend development.<br>🤝 I’m looking to collaborate on cool fullstack projects that challenge me and help me grow.<br>🆘 I’m looking for help with advanced backend concepts — still learning!<br>🌱 I’m currently learning backend development to become a fullstack developer.<br>💬 Ask me about frontend frameworks, Codewars challenges, or tough LeetCode problems.<br>⚡ Fun fact: I’ve made it to 4 kyu on Codewars and solved a bunch of hard problems on LeetCode — I love a
+---
+
+- ## 👋 Intro:
+  Hello! I'm Josh, transitioning from food services to **Software Engineering** with focus on **FullStack Development**. Passionate about learning and creating practical solutions. My projects are already in use today (see below).
+
+---
+
+- ## 🎓 Education & Certifications
+  <div style="display: flex; align-items: center;">
+  <div>
+    <h3>
+      <a href="https://www.linkedin.com/school/odessa-national-polytechnic-university/">🏢 National University «Odessa Polytechnic»</a>
+    </h3>
+    <p>Bachelor of Science in "Computer Science" | 1 september 2024 - june 2027</p>
+    <a href="https://op.edu.ua/">📍 Univirsity Website Link 📍<a/>
+  </div>
+  <a href="https://www.linkedin.com/school/odessa-national-polytechnic-university/"  style="padding-left: 250px;">
+    <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/e/e3/Politechnika.svg/800px-Politechnika.svg.png" width="200">
+  </a>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div>
+    <h3>
+      <a href="https://www.linkedin.com/school/odessa-national-polytechnic-university/">🧑‍💻 hillel IT School</a>
+    </h3>
+    <p>Bachelor of Science in "Computer Science" | 1 september 2024 - june 2027</p>
+    <a href="https://ithillel.ua/?utm_source=google&utm_medium=cpc&utm_campaign=g&utm_content=642380456554&utm_term=hillel&gad_source=1&gbraid=0AAAAADo_WKu9nT09H55rhmlZmBR96afNs&gclid=Cj0KCQjwt8zABhDKARIsAHXuD7aS4CwGSXX4va3CSeA3MZZ27eR04iE3iIfhWXfU7zceE0pY1meTlkoaApRkEALw_wcB">📍 IT School Website Link 📍<a/>
+  </div>
+  <a href="https://www.linkedin.com/school/odessa-national-polytechnic-university/"  style="padding-left: 250px;">
+    <img src="https://yt3.googleusercontent.com/yTio1V_ROAr_0N1hX7p3PaK10gRUoY83blm3elTZMa3DSNPRgvKHZ6rkg_MRhdPX8KCGQBVs2A=s900-c-k-c0x00ffffff-no-rj" width="200">
+  </a>
+</div>
+
+---
 
 ## 🌐 Socials:
 
@@ -66,7 +100,6 @@
 ## 💰 You can help me by Donating
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://www.patreon.com/c/Alex_KIm11?fromConcierge=true)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexKim71/AlexKim71/output/pacman-contribution-graph-dark.svg">
