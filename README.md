@@ -23,12 +23,15 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=AlexKim71&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AlexKim71&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AlexKim71&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=AlexKim71&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKim71&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ## 🏆 GitHub Trophies
 
+![Codewars](https://www.codewars.com/users/Alex123123/badges/large)
 ![](https://github-profile-trophy.vercel.app/?username=AlexKim71&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
