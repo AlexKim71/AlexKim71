@@ -24,10 +24,9 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=AlexKim71&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=AlexKim71&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKim71&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+![](https://nirzak-streak-stats.vercel.app/?user=AlexKim71&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKim71&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+[](https://activity-graph.herokuapp.com/graph?username=AlexKim71&theme=github-dark&hide_border=true&area=true)
 
 ## 🏆 GitHub Trophies
 
@@ -51,8 +50,8 @@
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://www.patreon.com/c/Alex_KIm11?fromConcierge=true)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexKim71/AlexKim71/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexKim71/AlexKim71/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AlexKim71/AlexKim71/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexKim71/AlexKim71/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexKim71/AlexKim71/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlexKim71/AlexKim71/output/pacman-contribution-graph.svg">
 </picture>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
