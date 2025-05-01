@@ -8,42 +8,34 @@
 ---
 
 - ## 🎓 Education & Certifications
-  <div>
-    <div>
-      <h3>
-        <a href="https://www.linkedin.com/school/odessa-national-polytechnic-university/" target="_blank">🏢 National University «Odessa Polytechnic»</a>
-      </h3>
-      <p>Bachelor of Science in "Computer Science" | 1 september 2024 - june 2027</p>
-      <a href="https://op.edu.ua/"  target="_blank" >📍 Univirsity Website Link 📍<a/>
-    </div>
-        
-    <div>
-      <a href="[https://op.edu.ua/](https://www.linkedin.com/school/odessa-national-polytechnic-university/)" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/e/e3/Politechnika.svg/800px-Politechnika.svg.png" 
-             width="180" 
-             style="max-width: 100%; height: auto;"
-             alt="ONPU Logo">
-      </a>
-    </div>
- </div>
 
-<div>
-  <div>
-    <h3>
-      <a href="https://www.linkedin.com/school/odessa-national-polytechnic-university/">🧑‍💻 hillel IT School</a>
-    </h3>
-    <p>Certifications</p>
-    <a href="https://certificate.ithillel.ua/view/99898576">Front-end Level 1<a/>
-    <a href="https://certificate.ithillel.ua/view/77626275">Front-end Level 2<a/>
-    <a href="https://ithillel.ua/utm_source=google&utm_medium=cpc&utm_campaign=g&utm_content=642380456554&utm_term=hillel&gad_source=1&gbraid=0AAAAADo_WKu9nT09H55rhmlZmBR96afNs&gclid=Cj0KCQjwt8zABhDKARIsAHXuD7aS4CwGSXX4va3CSeA3MZZ27eR04iE3iIfhWXfU7zceE0pY1meTlkoaApRkEALw_wcB">📍 IT School Website Link 📍
-    <a/>
-</div>
-  <a href="https://www.linkedin.com/school/odessa-national-polytechnic-university/">
-    <img src="https://yt3.googleusercontent.com/yTio1V_ROAr_0N1hX7p3PaK10gRUoY83blm3elTZMa3DSNPRgvKHZ6rkg_MRhdPX8KCGQBVs2A=s900-c-k-c0x00ffffff-no-rj" width="180" style="max-width: 100%; height: auto;>
+<div style="display: flex; align-items: center; gap: 20px;" align="left">
+  <a href="https://www.linkedin.com/school/odessa-national-polytechnic-university/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/e/e3/Politechnika.svg/800px-Politechnika.svg.png" 
+         width="180" 
+         style="max-width: 100%; height: auto; word-spacing: 40px;" 
+         alt="ONPU Logo">
   </a>
-    </div>
+
+  <a href="https://www.linkedin.com/school/odessa-national-polytechnic-university/" target="_blank">
+    <img src="https://yt3.googleusercontent.com/yTio1V_ROAr_0N1hX7p3PaK10gRUoY83blm3elTZMa3DSNPRgvKHZ6rkg_MRhdPX8KCGQBVs2A=s900-c-k-c0x00ffffff-no-rj" 
+         width="180" 
+         style="max-width: 100%; height: auto; margin-left: 40%" 
+         alt="ONPU LinkedIn">
+  </a>
+</div>
+
+ | 🏢 **National University «Odessa Polytechnic»** | 🧑‍💻 **Hillel IT School** |
+|-----------------------------------------------|---------------------------|
+| [LinkedIn Page](https://www.linkedin.com/school/odessa-national-polytechnic-university/)  | [LinkedIn Page](https://www.linkedin.com/school/odessa-national-polytechnic-university/) |
+| **Bachelor of Science in "Computer Science"**  <br> 1 September 2024 – June 2027 | **Certifications:** <br> [Front-end Level 1](https://certificate.ithillel.ua/view/99898576) <br> [Front-end Level 2](https://certificate.ithillel.ua/view/77626275) |
+| [📍 University Website](https://op.edu.ua/) | [📍 IT School Website](https://ithillel.ua/) |
+
+
+      
 
 ---
+
 
 ## 🌐 Socials:
 
@@ -115,5 +107,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexKim71/AlexKim71/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AlexKim71/AlexKim71/output/pacman-contribution-graph.svg">
 </picture>
-
-                 
