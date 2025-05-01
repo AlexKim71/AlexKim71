@@ -8,8 +8,8 @@
 ---
 
 - ## 🎓 Education & Certifications
-  <div  style="display: flex; align-items: center; justify-content: space-between; margin: 20px 0;">
-    <div style="flex: 2;">
+  <div>
+    <div>
       <h3>
         <a href="https://www.linkedin.com/school/odessa-national-polytechnic-university/" target="_blank">🏢 National University «Odessa Polytechnic»</a>
       </h3>
@@ -17,28 +17,31 @@
       <a href="https://op.edu.ua/"  target="_blank" >📍 Univirsity Website Link 📍<a/>
     </div>
         
-    <div style="flex: 1; text-align: right;">
+    <div>
       <a href="[https://op.edu.ua/](https://www.linkedin.com/school/odessa-national-polytechnic-university/)" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/e/e3/Politechnika.svg/800px-Politechnika.svg.png" 
              width="180" 
-             style="max-width: 100%; height: auto; border-radius: 4px;"
+             style="max-width: 100%; height: auto;"
              alt="ONPU Logo">
       </a>
     </div>
  </div>
 
+<div>
   <div>
-    <div>
-      <h3>
-        <a href="https://www.linkedin.com/school/odessa-national-polytechnic-university/">🧑‍💻 hillel IT School</a>
-      </h3>
-      <p>Bachelor of Science in "Computer Science" | 1 september 2024 - june 2027</p>
-      <a href="https://ithillel.ua/?utm_source=google&utm_medium=cpc&utm_campaign=g&utm_content=642380456554&utm_term=hillel&gad_source=1&gbraid=0AAAAADo_WKu9nT09H55rhmlZmBR96afNs&gclid=Cj0KCQjwt8zABhDKARIsAHXuD7aS4CwGSXX4va3CSeA3MZZ27eR04iE3iIfhWXfU7zceE0pY1meTlkoaApRkEALw_wcB">📍 IT School Website Link 📍<a/>
+    <h3>
+      <a href="https://www.linkedin.com/school/odessa-national-polytechnic-university/">🧑‍💻 hillel IT School</a>
+    </h3>
+    <p>Certifications</p>
+    <a href="https://certificate.ithillel.ua/view/99898576">Front-end Level 1<a/>
+    <a href="https://certificate.ithillel.ua/view/77626275">Front-end Level 2<a/>
+    <a href="https://ithillel.ua/utm_source=google&utm_medium=cpc&utm_campaign=g&utm_content=642380456554&utm_term=hillel&gad_source=1&gbraid=0AAAAADo_WKu9nT09H55rhmlZmBR96afNs&gclid=Cj0KCQjwt8zABhDKARIsAHXuD7aS4CwGSXX4va3CSeA3MZZ27eR04iE3iIfhWXfU7zceE0pY1meTlkoaApRkEALw_wcB">📍 IT School Website Link 📍
+    <a/>
+</div>
+  <a href="https://www.linkedin.com/school/odessa-national-polytechnic-university/">
+    <img src="https://yt3.googleusercontent.com/yTio1V_ROAr_0N1hX7p3PaK10gRUoY83blm3elTZMa3DSNPRgvKHZ6rkg_MRhdPX8KCGQBVs2A=s900-c-k-c0x00ffffff-no-rj" width="180" style="max-width: 100%; height: auto;>
+  </a>
     </div>
-    <a href="https://www.linkedin.com/school/odessa-national-polytechnic-university/">
-      <img src="https://yt3.googleusercontent.com/yTio1V_ROAr_0N1hX7p3PaK10gRUoY83blm3elTZMa3DSNPRgvKHZ6rkg_MRhdPX8KCGQBVs2A=s900-c-k-c0x00ffffff-no-rj" width="180" style="max-width: 100%; height: auto; border-radius: 4px;">
-    </a>
-  </div>
 
 ---
 
