@@ -1,4 +1,4 @@
-# 💫 Hi there, I`m Alex Down Below Info About Me:
+# 💫 Hi there!, I`m Alex Down Below Info About Me:
 
 ---
 
