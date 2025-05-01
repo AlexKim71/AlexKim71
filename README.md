@@ -1,4 +1,4 @@
-# 💫 Hi there!, I`m Alex Down Below Info About Me:
+# 💫 Hi there!, Iʼm Alex Down Below Info About Me:
 
 ---
 
@@ -31,8 +31,7 @@
 | **Bachelor of Science in "Computer Science"**  <br> 1 September 2024 – June 2027 | **Certifications:** <br> [Front-end Level 1](https://certificate.ithillel.ua/view/99898576) <br> [Front-end Level 2](https://certificate.ithillel.ua/view/77626275) |
 | [📍 University Website](https://op.edu.ua/) | [📍 IT School Website](https://ithillel.ua/) |
 
-
-      
+## 💬 Ask me about anything [here](https://github.com/AlexKim71/AlexKim71/issues) 
 
 ---
 
