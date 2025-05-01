@@ -3,7 +3,7 @@
 ---
 
 - ## 👋 Intro:
-  Hello! I'm Josh, transitioning from food services to **Software Engineering** with focus on **FullStack Development**. Passionate about learning and creating practical solutions. My projects are already in use today (see below).
+  Hello! I'm Alex, transitioning from food services to **Software Engineering** with focus on **FullStack Development**. Passionate about learning and creating practical solutions. My projects are already in use today (see below).
 
 ---
 
