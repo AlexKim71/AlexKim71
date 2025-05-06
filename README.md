@@ -37,7 +37,7 @@
 - [**Algorithmization and Programming**](https://github.com/AlexKim71/university_programming-works)
 
 ## 📂 Public Repositories
-- [**🎨 Collections of my Wallpapers**](https://github.com/AlexKim71/Operating-Systems) 
+- [**🎨 Collections of my Wallpapers**](https://github.com/AlexKim71/Wallpapers-Hub) 
 - [**⚙️ Dotfiles Setup**](https://github.com/AlexKim71/university_programming-works) 
    
 ## 💬 Ask me about anything [here](https://github.com/AlexKim71/AlexKim71/issues)  
