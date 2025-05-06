@@ -34,7 +34,11 @@
 
 ## 🏫 University Repositories
 - [**Operating Systems**](https://github.com/AlexKim71/Operating-Systems) 
-- [**Algorithmization and Programming**](https://github.com/AlexKim71/university_programming-works) 
+- [**Algorithmization and Programming**](https://github.com/AlexKim71/university_programming-works)
+
+## 📂 Public Repositories
+- [**🎨 Collections of my Wallpapers**](https://github.com/AlexKim71/Operating-Systems) 
+- [**⚙️ Dotfiles Setup**](https://github.com/AlexKim71/university_programming-works) 
    
 ## 💬 Ask me about anything [here](https://github.com/AlexKim71/AlexKim71/issues)  
 
