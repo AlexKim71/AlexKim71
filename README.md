@@ -1,7 +1,4 @@
 # 💫 Hi there!, Iʼm Alex Down Below Info About Me:
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AlexKim71/count.svg?"  />
-</div>
 
 ---
 
@@ -123,3 +120,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexKim71/AlexKim71/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AlexKim71/AlexKim71/output/pacman-contribution-graph.svg">
 </picture>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AlexKim71/count.svg?"  />
+</div>
