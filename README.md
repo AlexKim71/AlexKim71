@@ -1,4 +1,7 @@
 # 💫 Hi there!, Iʼm Alex Down Below Info About Me:
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AlexKim71/count.svg?"  />
+</div>
 
 ---
 
