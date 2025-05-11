@@ -38,7 +38,7 @@
 
 ## 📂 Public Repositories
 - [**🎨 Collections of my Wallpapers**](https://github.com/AlexKim71/Wallpapers-Hub) 
-- [**⚙️ Dotfiles Setup**](https://github.com/AlexKim71/university_programming-works)
+- [**⚙️ Dotfiles Setup**](https://github.com/AlexKim71/Dotfiles-Collections)
 - [**⌨️ Programming Fonts Collections**](https://github.com/AlexKim71/Programming-Fonts.git) 
    
 ## 💬 Ask me about anything [here](https://github.com/AlexKim71/AlexKim71/issues)  
