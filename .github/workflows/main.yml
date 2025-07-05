@@ -1,50 +1,31 @@
-name: GitHub Pac-Man Game
+name: generate pacman game
 
 on:
-  # Schedule the workflow to run daily at midnight UTC
-  schedule:
-    - cron: "0 0 * * *"
-
-  # Allow manual triggering of the workflow
-  workflow_dispatch:
-
-  # Trigger the workflow on pushes to the main branch
-  push:
+schedule: # Run automatically every 24 hours
+    - cron: "0 */24 * * *"
+workflow_dispatch: # Allows manual triggering
+push: # Runs on every push to the main branch
     branches:
-      - main
+    - main
 
 jobs:
-  generate:
+generate:
+    permissions:
+    contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
-      # Step 1: Checkout the repository
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      # Step 2: Generate the Pac-Man graph
-      - name: Generate GitHub Contributions Pac-Man Graph
+    - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+        github_user_name: ${{ github.repository_owner }}
 
-      # Step 3: Move output files into dist directory
-      - name: Organize Output Files
-        run: |
-          mkdir -p dist
-          if [ -f pacman-contribution-graph.svg ]; then
-            cp pacman-contribution-graph.svg dist/github-pacman.svg
-          fi
-          if [ -f pacman-contribution-graph-dark.svg ]; then
-            cp pacman-contribution-graph-dark.svg dist/github-pacman-dark.svg
-          fi
-
-      # Step 4: Deploy to output branch
-      - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
+    # Push the generated SVG to the output branch
+    - name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          commit_message: "Update pacman animation [skip ci]"
+        target_branch: output
+        build_dir: dist
+        env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
