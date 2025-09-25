@@ -35,10 +35,10 @@
 
 
 ## 🏫 University Repositories
+- [**OOP**](https://github.com/AlexKim71/OOP)
 - [**Operating Systems**](https://github.com/AlexKim71/Operating-Systems) 
 - [**Algorithmization and Programming**](https://github.com/AlexKim71/university_programming-works)
 - [**Theory of Algorithms**](https://github.com/AlexKim71/Theory-of-Algorithms)
-- [**OOP**](https://github.com/AlexKim71/OOP)
 
 ## 📂 Public Repositories
 - [**🎨 Collections of my Wallpapers**](https://github.com/AlexKim71/Wallpapers-Hub) 
