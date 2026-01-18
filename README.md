@@ -13,7 +13,7 @@
 
 <div style="display: flex; align-items: center; gap: 20px;" align="left">
   <a href="https://www.linkedin.com/school/odessa-national-polytechnic-university/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/uk/thumb/e/e3/Politechnika.svg/800px-Politechnika.svg.png" 
+    <img src="./src/university.jpeg" 
          width="180" 
          style="max-width: 100%; height: auto; word-spacing: 40px;" 
          alt="ONPU Logo">
