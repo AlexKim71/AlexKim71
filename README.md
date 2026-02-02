@@ -9,7 +9,7 @@ Hello! I'm Alexander, transitioning from food services to **Software Engineering
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.6/app/ci.min.css" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@master/app/ci.min.css" />
 
-<p  style="display: flex; align-items: center; justify-content: start;">
+<p  style="display: flex; ">
   <a href="https://www.linkedin.com/in/alexander-gavrylov-604a33272/" target="_blank" alt="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" style="width:55px;"/>
   </a>
