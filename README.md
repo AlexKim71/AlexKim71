@@ -2,12 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=AlexKim71&style=flat-square)
 # 💫 Down Below Info About Me:
 
----
-
 - ## 👋 Intro
   Hello! I'm Alex, transitioning from food services to **Software Engineering** with focus on **FullStack Development**. Passionate about learning and creating practical solutions. My projects are already in use today (see below).
-
----
 
 - ## 🎓 Education & Certifications
 
