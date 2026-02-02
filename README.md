@@ -1,8 +1,8 @@
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
-<h1 align="center">What's up <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> Down Below Info About Me</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px">, I'm Alexander Gavrylov</h1>
 
-Hello! I'm Alexander, transitioning from food services to **Software Engineering** with focus on **FullStack Development**. Passionate about learning and creating practical solutions. My projects are already in use today (see below).
+ Transitioning from food services to **Software Engineering** with focus on **FullStack Development**. Passionate about learning and creating practical solutions. My projects are already in use today (see below).
 
 # 🌐 Social Media
 
