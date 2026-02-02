@@ -111,8 +111,10 @@ Hello! I'm Alexander, transitioning from food services to **Software Engineering
 
 ### Terminal & Shells
 
-<i class="ci ci-bash ci-6x"></i>
-<i class="ci ci-ohmyzsh ci-6x"></i>
+<p>
+  <i class="ci ci-bash ci-6x"></i>
+  <i class="ci ci-ohmyzsh ci-6x"></i>
+<p/>
 
 ### DevOps & Cloud Infrastructure
 
