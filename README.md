@@ -94,12 +94,22 @@ Transitioning from food services to **Software Engineering** with focus on **Ful
 
 # 💻 Technologies & Tools:
 
-### Programming Languages
+### Frontend Stack
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,javascript,ts,java,go,php," style="width: 700px;"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwindcss,bootstrap,javascript,ts,react,nextjs,redux,npm,pnpm,vite,figma,photoshop,"  style="width: 1000px;" />
+</p>
+
+### Backend Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,javascript,postgresql,prisma,redis,graphql,postman," style="width: 700px;" />
+</p>
+
+### Programming Languages ()
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,javascript,ts,java,go,php," style="width: 700px;"/>
 </p>
 
 ### Operation Systems
@@ -116,24 +126,23 @@ Transitioning from food services to **Software Engineering** with focus on **Ful
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,vim,sublime,rider,idea,webstorm,pycharm,phpstorm" style="width: 700px;" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,vim,sublime,rider,idea,webstorm,pycharm,phpstorm,clion," style="width: 700px;" />
   </a>
 </p>
 
 ### Terminal & Shells
 
-<p>
-  <i class="ci ci-bash ci-6x"></i>
-  <i class="ci ci-ohmyzsh ci-6x"></i>
-<p/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,ohmyzsh" style="width: 150px;" />
+</p>
 
 ### DevOps & Cloud Infrastructure
 
 <img src="https://skillicons.dev/icons?i=docker,github,git,githubactions,gitlab,vercel,netlify,aws,azure,gcp,nginx" style="width: 700px;" />
 
-### Productivity Softwear
+### Productivity Software
 
-<img src="https://skillicons.dev/icons?i=notion,gmail,google,firefox," />
+<img src="https://skillicons.dev/icons?i=notion,gmail,obsidian," style="width: 300px;" />
 
 <div align="center">
 
