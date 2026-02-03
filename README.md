@@ -23,7 +23,7 @@
     <i class="ci ci-facebook ci-4x"></i>
   </a>
   <a href="https://x.com/Ol36486Gavrilov" target="_blank" alt="X">
-    <img src="./assets/icons/x1.svg" style="width:74px; height="45"; display: flex;" />
+    <img src="./assets/icons/xtwitter.png" style="width:74px;" />
   </a>
   <a href="https://t.me/@Aleksandr3l2" target="_blank" alt="Telegram">
     <i class="ci ci-telegram ci-4x"></i>
