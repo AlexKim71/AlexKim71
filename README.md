@@ -9,41 +9,41 @@ Transitioning from food services to **Software Engineering** with focus on **Ful
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.6/app/ci.min.css" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@master/app/ci.min.css" />
 
-<p  style="display: flex; ">
+<p  style="display: flex;">
   <a href="https://www.linkedin.com/in/alexander-gavrylov-604a33272/" target="_blank" alt="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" style="width: 55px;"/>
   </a>
-  <a href="https://discordapp.com/users/1280099032403939338" target="_blank"  alt="Discord"  style="margin: 0 0 0 10px">
+  <a href="https://discordapp.com/users/1280099032403939338" target="_blank"  alt="Discord">
     <img src="https://skillicons.dev/icons?i=discord" style="width: 55px;"/>
   </a>
-  <a href="https://www.instagram.com/alexandergavryl0v/" target="_blank" alt="instagram" style="margin: 0 0 0 10px">
+  <a href="https://www.instagram.com/alexandergavryl0v/" target="_blank" alt="instagram">
     <img src="https://skillicons.dev/icons?i=instagram" style="width: 55px;" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61583431845093" target="_blank" alt="Facebook" style="margin: 0 0 0 10px">
+  <a href="https://www.facebook.com/profile.php?id=61583431845093" target="_blank" alt="Facebook">
     <img src="./assets/icons/facebook.png" style="width:55px;" />
   </a>
-  <a href="https://x.com/Ol36486Gavrilov" target="_blank" alt="X" style="margin: 0 0 0 10px">
+  <a href="https://x.com/Ol36486Gavrilov" target="_blank" alt="X">
     <img src="./assets/icons/X.png" style="width:55px;" />
   </a>
-  <a href="https://t.me/@Aleksandr3l2" target="_blank" alt="Telegram" style="margin: 0 0 0 10px">
+  <a href="https://t.me/@Aleksandr3l2" target="_blank" alt="Telegram">
     <img src="./assets/icons/Telegram.svg" style="width:55px;" />
   </a>
-  <a href="https://www.twitch.tv/alexander01fq" target="_blank" alt="Twitch"  style="margin: 0 0 0 10px">
+  <a href="https://www.twitch.tv/alexander01fq" target="_blank" alt="Twitch">
    <img src="./assets/icons/Twitch.png" style="height: 55px;"/>
   </a>
-  <a href="https://www.youtube.com/@Sanchez_Kimm" target="_blank" alt="YouTube"  style="margin: 0 0 0 10px">
+  <a href="https://www.youtube.com/@Sanchez_Kimm" target="_blank" alt="YouTube">
      <img src="./assets/icons/youtube.png" style="height: 55px;"/>
   </a>
-  <a href="https://codepen.io/Sanchez-Kim" alt="Codepen"  style="margin: 0 0 0 10px">
+  <a href="https://codepen.io/Sanchez-Kim" alt="Codepen">
     <img src="https://skillicons.dev/icons?i=codepen" style="width:55px;" />
   </a>
-  <a href="https://www.tiktok.com/@aleksandrk1m" alt="TikTok"  style="margin: 0 0 0 10px">
+  <a href="https://www.tiktok.com/@aleksandrk1m" alt="TikTok" >
     <img src="./assets/icons/TikTok.png" style="width:60px;" />
   </a>
-  <a href="https://www.tiktok.com/@aleksandrk1m" alt="Reddit"  style="margin: 0 0 0 10px">
+  <a href="https://www.tiktok.com/@aleksandrk1m" alt="Reddit" >
     <img src="./assets/icons/reddit.png" style="width:55px;" />
   </a>
-  <a href="https://dou.ua/users/sanchez-kim/" alt="DOU"  style="margin: 0 0 0 10px">
+  <a href="https://dou.ua/users/sanchez-kim/" alt="DOU" >
     <img src="./assets/icons/DOU.png" style="width:60px;" />
   </a>
 </p>
