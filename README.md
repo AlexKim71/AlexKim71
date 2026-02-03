@@ -118,11 +118,7 @@ Transitioning from food services to **Software Engineering** with focus on **Ful
 ### Operation Systems
 
 <p align="center">
-  <i class="ci ci-windows ci-4x"></i>
-  <i class="ci ci-ubuntu ci-5x"></i>
-  <i class="ci ci-archlinux ci-5x"></i>
-  <i class="ci ci-linux ci-5x"></i>
-  <img src="https://skillicons.dev/icons?i=windows," style="width: 150px;"/>
+  <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu," style="width: 400px;"/>
 </p>
 
 ### Code Editors
