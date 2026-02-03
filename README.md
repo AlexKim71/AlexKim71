@@ -109,7 +109,7 @@ Transitioning from food services to **Software Engineering** with focus on **Ful
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,javascript,postgresql,prisma,redis,graphql,postman," style="width: 700px;" />
 </p>
 
-### Programming Languages ()
+### Programming Languages(Hands-on Experience)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,javascript,ts,java,go,php," style="width: 700px;"/>
