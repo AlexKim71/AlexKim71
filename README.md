@@ -96,25 +96,28 @@ Transitioning from food services to **Software Engineering** with focus on **Ful
 
 ### Frontend Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwindcss,bootstrap,javascript,ts,react,nextjs,redux,npm,pnpm,vite,figma,photoshop,"  style="width: 1000px;" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwindcss,bootstrap,javascript,ts,"  style="width: 550px;" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,npm,pnpm,vite,figma,photoshop,"  style="width: 550px;" />
 </p>
 
 ### Backend Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,javascript,postgresql,prisma,redis,graphql,postman," style="width: 700px;" />
 </p>
 
 ### Programming Languages ()
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,javascript,ts,java,go,php," style="width: 700px;"/>
 </p>
 
 ### Operation Systems
 
-<p>
+<p align="center">
   <i class="ci ci-windows ci-4x"></i>
   <i class="ci ci-ubuntu ci-5x"></i>
   <i class="ci ci-archlinux ci-5x"></i>
@@ -124,7 +127,7 @@ Transitioning from food services to **Software Engineering** with focus on **Ful
 
 ### Code Editors
 
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,vim,sublime,rider,idea,webstorm,pycharm,phpstorm,clion," style="width: 700px;" />
   </a>
@@ -132,17 +135,21 @@ Transitioning from food services to **Software Engineering** with focus on **Ful
 
 ### Terminal & Shells
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=bash,ohmyzsh" style="width: 150px;" />
 </p>
 
 ### DevOps & Cloud Infrastructure
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,github,git,githubactions,gitlab,vercel,netlify,aws,azure,gcp,nginx" style="width: 700px;" />
+</p>
 
 ### Productivity Software
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=notion,gmail,obsidian," style="width: 300px;" />
+<p/>
 
 <div align="center">
 
