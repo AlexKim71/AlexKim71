@@ -42,19 +42,19 @@ Transitioning from food services to **Software Engineering** with focus on **Ful
     <img src="./assets/icons/youtube.png" style="height: 55px;"/>
   </a>
   &nbsp;
-  <a href="https://codepen.io/Sanchez-Kim" alt="Codepen">
+  <a href="https://codepen.io/Sanchez-Kim" target="_blank" alt="Codepen">
     <img src="https://skillicons.dev/icons?i=codepen" style="width:55px;" />
   </a>
   &nbsp;
-  <a href="https://www.tiktok.com/@aleksandrk1m" alt="TikTok">
+  <a href="https://www.tiktok.com/@aleksandrk1m" target="_blank" alt="TikTok">
     <img src="./assets/icons/TikTok.png" style="width:60px;" />
   </a>
   &nbsp;
-  <a href="https://www.tiktok.com/@aleksandrk1m" alt="Reddit">
+  <a href="https://www.tiktok.com/@aleksandrk1m" target="_blank" alt="Reddit">
     <img src="./assets/icons/reddit.png" style="width:55px;" />
   </a>
   &nbsp;
-  <a href="https://dou.ua/users/sanchez-kim/" alt="DOU">
+  <a href="https://dou.ua/users/sanchez-kim/" target="_blank" alt="DOU">
     <img src="./assets/icons/DOU.png" style="width:60px;" />
   </a>
 </p>
