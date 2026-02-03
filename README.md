@@ -14,56 +14,45 @@ Transitioning from food services to **Software Engineering** with focus on **Ful
     <img src="https://skillicons.dev/icons?i=linkedin" style="width: 55px;"/>
   </a>
   &nbsp;
-  &nbsp;
   <a href="https://discordapp.com/users/1280099032403939338" target="_blank" alt="Discord">
     <img src="https://skillicons.dev/icons?i=discord" style="width: 55px;"/>
   </a>
-  &nbsp;
   &nbsp;
   <a href="https://www.instagram.com/alexandergavryl0v/" target="_blank" alt="instagram">
     <img src="https://skillicons.dev/icons?i=instagram" style="width: 55px;" />
   </a>
   &nbsp;
-  &nbsp;
   <a href="https://www.facebook.com/profile.php?id=61583431845093" target="_blank" alt="Facebook">
     <img src="./assets/icons/facebook.png" style="width:55px;" />
   </a>
-  &nbsp;
   &nbsp;
   <a href="https://x.com/Ol36486Gavrilov" target="_blank" alt="X">
     <img src="./assets/icons/X.png" style="width:55px;" />
   </a>
   &nbsp;
-  &nbsp;
   <a href="https://t.me/@Aleksandr3l2" target="_blank" alt="Telegram">
     <img src="./assets/icons/Telegram.svg" style="width:55px;" />
   </a>
-  &nbsp;
   &nbsp;
   <a href="https://www.twitch.tv/alexander01fq" target="_blank" alt="Twitch">
     <img src="./assets/icons/Twitch.png" style="height: 55px;"/>
   </a>
   &nbsp;
-  &nbsp;
   <a href="https://www.youtube.com/@Sanchez_Kimm" target="_blank" alt="YouTube">
     <img src="./assets/icons/youtube.png" style="height: 55px;"/>
   </a>
-  &nbsp;
   &nbsp;
   <a href="https://codepen.io/Sanchez-Kim" alt="Codepen">
     <img src="https://skillicons.dev/icons?i=codepen" style="width:55px;" />
   </a>
   &nbsp;
-  &nbsp;
   <a href="https://www.tiktok.com/@aleksandrk1m" alt="TikTok">
     <img src="./assets/icons/TikTok.png" style="width:60px;" />
   </a>
   &nbsp;
-  &nbsp;
   <a href="https://www.tiktok.com/@aleksandrk1m" alt="Reddit">
     <img src="./assets/icons/reddit.png" style="width:55px;" />
   </a>
-  &nbsp;
   &nbsp;
   <a href="https://dou.ua/users/sanchez-kim/" alt="DOU">
     <img src="./assets/icons/DOU.png" style="width:60px;" />
