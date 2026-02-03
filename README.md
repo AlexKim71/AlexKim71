@@ -11,13 +11,13 @@
 
 <p  style="display: flex; ">
   <a href="https://www.linkedin.com/in/alexander-gavrylov-604a33272/" target="_blank" alt="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" style="width:55px;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" style="width: 55px;"/>
   </a>
   <a href="https://discordapp.com/users/1280099032403939338" target="_blank"  alt="Discord"  style="margin: 0 0 0 10px">
-    <img src="https://skillicons.dev/icons?i=discord" style="width:55px;"/>
+    <img src="https://skillicons.dev/icons?i=discord" style="width: 55px;"/>
   </a>
   <a href="https://www.instagram.com/alexandergavryl0v/" target="_blank" alt="instagram" style="margin: 0 0 0 10px">
-    <img src="https://skillicons.dev/icons?i=instagram" style="width:55px;" />
+    <img src="https://skillicons.dev/icons?i=instagram" style="width: 55px;" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61583431845093" target="_blank" alt="Facebook" style="margin: 0 0 0 10px">
     <i class="ci ci-facebook ci-4x"></i>
