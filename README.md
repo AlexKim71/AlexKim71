@@ -132,7 +132,7 @@ Transitioning from food services to **Software Engineering** with focus on **Ful
 ### Terminal & Shells
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,ohmyzsh" style="width: 150px;" />
+  <img src="https://skillicons.dev/icons?i=bash,powershell," style="width: 300px;" />
 </p>
 
 ### DevOps & Cloud Infrastructure
