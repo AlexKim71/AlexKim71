@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px">, I'm Alexander Gavrylov</h1>
 
- Transitioning from food services to **Software Engineering** with focus on **FullStack Development**. Passionate about learning and creating practical solutions. My projects are already in use today (see below).
+Transitioning from food services to **Software Engineering** with focus on **FullStack Development**. Passionate about learning and creating practical solutions. My projects are already in use today (see below).
 
 # 🌐 Social Media
 
@@ -20,31 +20,31 @@
     <img src="https://skillicons.dev/icons?i=instagram" style="width: 55px;" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61583431845093" target="_blank" alt="Facebook" style="margin: 0 0 0 10px">
-    <i class="ci ci-facebook ci-4x"></i>
+    <img src="./assets/icons/facebook.png" style="width:55px;" />
   </a>
-  <a href="https://x.com/Ol36486Gavrilov" target="_blank" alt="X">
-    <img src="./assets/icons/xtwitter.png" style="width:74px;" />
+  <a href="https://x.com/Ol36486Gavrilov" target="_blank" alt="X" style="margin: 0 0 0 10px">
+    <img src="./assets/icons/X.png" style="width:55px;" />
   </a>
-  <a href="https://t.me/@Aleksandr3l2" target="_blank" alt="Telegram">
-    <i class="ci ci-telegram ci-4x"></i>
+  <a href="https://t.me/@Aleksandr3l2" target="_blank" alt="Telegram" style="margin: 0 0 0 10px">
+    <img src="./assets/icons/Telegram.svg" style="width:55px;" />
   </a>
   <a href="https://www.twitch.tv/alexander01fq" target="_blank" alt="Twitch"  style="margin: 0 0 0 10px">
-    <i class="ci ci-twitch ci-4x"></i>
+   <img src="./assets/icons/Twitch.png" style="height: 55px;"/>
   </a>
   <a href="https://www.youtube.com/@Sanchez_Kimm" target="_blank" alt="YouTube"  style="margin: 0 0 0 10px">
-    <i class="ci ci-youtube ci-4x"></i>
+     <img src="./assets/icons/youtube.png" style="height: 55px;"/>
   </a>
   <a href="https://codepen.io/Sanchez-Kim" alt="Codepen"  style="margin: 0 0 0 10px">
     <img src="https://skillicons.dev/icons?i=codepen" style="width:55px;" />
   </a>
   <a href="https://www.tiktok.com/@aleksandrk1m" alt="TikTok"  style="margin: 0 0 0 10px">
-    <i class="ci ci-tiktok-rounded-square ci-4x"></i>
+    <img src="./assets/icons/TikTok.png" style="width:60px;" />
   </a>
   <a href="https://www.tiktok.com/@aleksandrk1m" alt="Reddit"  style="margin: 0 0 0 10px">
-    <i class="ci ci-reddit ci-4x"></i>
+    <img src="./assets/icons/reddit.png" style="width:55px;" />
   </a>
   <a href="https://dou.ua/users/sanchez-kim/" alt="DOU"  style="margin: 0 0 0 10px">
-    <img src="./assets/icons/dou.png" style="width:60px;" />
+    <img src="./assets/icons/DOU.png" style="width:60px;" />
   </a>
 </p>
 
