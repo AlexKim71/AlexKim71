@@ -1,10 +1,6 @@
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
-<<<<<<< HEAD
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px">, I'm Alexander</h1>
-=======
-<h1 align="center">Hi there, I'm Alexander Gavrylov </h1>
->>>>>>> 9a5774f (Update Profile Readme)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px">, I'm Alexander Gavrylov</h1>
 
 **👨‍💻 Full-Stack Developer | Computer Science Student**
 
@@ -81,13 +77,8 @@
     <img src="https://skillicons.dev/icons?i=codepen" style="width:55px;" />
   </a>
   &nbsp;
-<<<<<<< HEAD
   <a href="https://www.tiktok.com/@aleksandrk1m" target="_blank" alt="TikTok">
     <img src="./assets/icons/TikTok.png" style="width:60px;" />
-=======
-  <a href="https://www.tiktok.com/@aleksandrk1m" alt="TikTok">
-    <img src="./assets/icons/TikTok.png" style="width:60px; height: 55px;" />
->>>>>>> 9a5774f (Update Profile Readme)
   </a>
   &nbsp;
   <a href="https://www.tiktok.com/@aleksandrk1m" target="_blank" alt="Reddit">
