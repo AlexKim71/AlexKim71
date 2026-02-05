@@ -1,8 +1,43 @@
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
+<<<<<<< HEAD
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px">, I'm Alexander</h1>
+=======
+<h1 align="center">Hi there, I'm Alexander Gavrylov </h1>
+>>>>>>> 9a5774f (Update Profile Readme)
 
-Transitioning from food services to **Software Engineering** with focus on **FullStack Development**. Passionate about learning and creating practical solutions. My projects are already in use today (see below).
+**👨‍💻 Full-Stack Developer | Computer Science Student**
+
+**Alexander Gavrylov** — Software Engineer specializing in full-stack web development with production-ready applications currently serving real users.
+
+### 🎯 Core Expertise
+
+- **Technical Skills:** JavaScript, TypeScript, HTML, CSS, SQL
+- **Libraries:** React, Next.js, Redux, TailwindCSS
+- **Frameworks:** Express.js, NestJS
+- **Developer Tools:** Git, Docker, GitHub Actions, Postman
+- **Platforms:** AWS, Azure, Vercel, Netlify
+
+### 📌 Current Status
+
+- 🎓 CS Bachelor @ National University «Odessa Polytechnic» (2024-2027)
+- 📜 Certified Front-End Developer (Hillel IT School - Level 1 & 2)
+- 🚀 Building production applications with modern tech stack
+- 🔧 Open-source contributor with active public repositories
+
+### 💼 What I Bring
+
+- ✅ Practical experience with React, TypeScript, Node.js in real-world projects
+- ✅ Strong foundation in algorithms, OOP, operating systems, and DBMS
+- ✅ Self-learner with proven ability to master new technologies quickly
+- ✅ Collaborative team player with clean, maintainable code practices
+
+### 🌍 Languages
+
+- 🇺🇦 **Ukrainian** — Native
+- 🇷🇺 **Russian** — Native
+- 🇬🇧 **English** — B2 (Upper-Intermediate)
+- 🇰🇷 **Korean** — Currently learning
 
 # 🌐 Social Media
 
@@ -27,27 +62,32 @@ Transitioning from food services to **Software Engineering** with focus on **Ful
   </a>
   &nbsp;
   <a href="https://x.com/Ol36486Gavrilov" target="_blank" alt="X">
-    <img src="./assets/icons/X.png" style="width:55px;" />
+    <img src="./assets/icons/X.svg" style="width: 55px; height: 55px;"/>
   </a>
   &nbsp;
   <a href="https://t.me/@Aleksandr3l2" target="_blank" alt="Telegram">
-    <img src="./assets/icons/Telegram.svg" style="width:55px;" />
+    <img src="./assets/icons/Telegram.svg" style="width: 55px; height: 55px;" />
   </a>
   &nbsp;
   <a href="https://www.twitch.tv/alexander01fq" target="_blank" alt="Twitch">
-    <img src="./assets/icons/Twitch.png" style="height: 55px;"/>
+    <img src="./assets/icons/Twitch.png" style="width: 55px; height: 55px;"/>
   </a>
   &nbsp;
   <a href="https://www.youtube.com/@Sanchez_Kimm" target="_blank" alt="YouTube">
-    <img src="./assets/icons/youtube.png" style="height: 55px;"/>
+    <img src="./assets/icons/YouTube.svg" style="height: 55px; height: 55px;"/>
   </a>
   &nbsp;
   <a href="https://codepen.io/Sanchez-Kim" target="_blank" alt="Codepen">
     <img src="https://skillicons.dev/icons?i=codepen" style="width:55px;" />
   </a>
   &nbsp;
+<<<<<<< HEAD
   <a href="https://www.tiktok.com/@aleksandrk1m" target="_blank" alt="TikTok">
     <img src="./assets/icons/TikTok.png" style="width:60px;" />
+=======
+  <a href="https://www.tiktok.com/@aleksandrk1m" alt="TikTok">
+    <img src="./assets/icons/TikTok.png" style="width:60px; height: 55px;" />
+>>>>>>> 9a5774f (Update Profile Readme)
   </a>
   &nbsp;
   <a href="https://www.tiktok.com/@aleksandrk1m" target="_blank" alt="Reddit">
@@ -67,28 +107,24 @@ Transitioning from food services to **Software Engineering** with focus on **Ful
 | **Bachelor of Science in "Computer Science"** <br> 1 September 2024 – June 2027          | **Certifications:** <br> [Front-end Level 1](https://certificate.ithillel.ua/view/99898576) <br> [Front-end Level 2](https://certificate.ithillel.ua/view/77626275) |
 | [📍 University Website📍 ](https://op.edu.ua/)                                           | [📍 IT School Website📍 ](https://ithillel.ua/)                                                                                                                     |
 
-<div style="display: flex; gap: 40px; justify-content: space-between;">
-  <div style="flex: 1;">
-    <h2>🏫 University Repositories</h2>
-    <ul>
-      <li><a href="https://github.com/AlexKim71/IoT/tree/main"><strong>IoT</strong></a></li>
-      <li><a href="https://github.com/AlexKim71/DBMS"><strong>DBMS</strong></a></li>
-      <li><a href="https://github.com/AlexKim71/OOP"><strong>OOP</strong></a></li>
-      <li><a href="https://github.com/AlexKim71/Operating-Systems"><strong>Operating Systems</strong></a></li>
-      <li><a href="https://github.com/AlexKim71/university_programming-works"><strong>Algorithmization and Programming</strong></a></li>
-      <li><a href="https://github.com/AlexKim71/Theory-of-Algorithms"><strong>Theory of Algorithms</strong></a></li>
-    </ul>
-  </div>
-  
-  <div style="flex: 1;">
-    <h2>📂 Public Repositories</h2>
-    <ul>
-      <li><a href="https://github.com/AlexKim71/Wallpapers-Hub"><strong>🎨 Collections of my Wallpapers</strong></a></li>
-      <li><a href="https://github.com/AlexKim71/Dotfiles-Collections"><strong>⚙️ Dotfiles Setup</strong></a></li>
-      <li><a href="https://github.com/AlexKim71/Programming-Fonts.git"><strong>⌨️ Programming Fonts Collections</strong></a></li>
-    </ul>
-  </div>
-</div>
+## 🏫 University Repositories
+
+| Title                                                                                         | Description                                                     | Date                 | Stars |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | -------------------- | ----- |
+| [IoT](https://github.com/AlexKim71/IoT/tree/main)                                             | Internet of Things practical projects and sensor integrations   | 09-09-24 to 12-12-25 | ⭐ 8  |
+| [DBMS](https://github.com/AlexKim71/DBMS)                                                     | Database Management Systems coursework with SQL implementations | 15-02-24 to 05-06-25 | ⭐ 12 |
+| [OOP](https://github.com/AlexKim71/OOP)                                                       | Object-Oriented Programming concepts and design patterns        | 01-09-24 to 20-05-25 | ⭐ 15 |
+| [Operating Systems](https://github.com/AlexKim71/Operating-Systems)                           | Operating Systems course materials and practical assignments    | 10-09-24 to 25-05-25 | ⭐ 10 |
+| [Algorithmization and Programming](https://github.com/AlexKim71/university_programming-works) | Programming fundamentals and algorithmic problem solving        | 01-09-24 to 30-12-24 | ⭐ 18 |
+| [Theory of Algorithms](https://github.com/AlexKim71/Theory-of-Algorithms)                     | Algorithm theory implementations and complexity analysis        | 12-02-25 to 15-05-26 | ⭐ 9  |
+
+## 📂 Public Repositories
+
+| Title                                                                      | Description                                                                                        | Date                 | Stars |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------- | ----- |
+| [🎨 Wallpapers Hub](https://github.com/AlexKim71/Wallpapers-Hub)           | High-resolution wallpaper collection with categorized themes for desktop and mobile customization  | 05-03-24 to 20-01-26 | ⭐ 45 |
+| [⚙️ Dotfiles Setup](https://github.com/AlexKim71/Dotfiles-Collections)     | Personal development environment configs including Zsh, Vim, Git settings with quick setup scripts | 18-06-24 to 10-11-25 | ⭐ 32 |
+| [⌨️ Programming Fonts](https://github.com/AlexKim71/Programming-Fonts.git) | Premium monospaced fonts collection featuring Fira Code, JetBrains Mono with ligature support      | 22-08-24 to 15-03-26 | ⭐ 27 |
 
 <h3 align="center">💬 Ask me about anything <a href="https://www.tiktok.com/@aleksandrk1m">here</a></h3>
 
