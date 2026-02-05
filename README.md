@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px">, I'm Alexander Gavrylov</h1>
 
 <p align="center">
-+380 67 123 4567 | <a href="mailto:gavrylovalexandr@gmail.com">gavrylovalexandr@gmail.com</a> | Portfolio: <a href="https://alexgavrylov.vercel.app">alexgavrylov.vercel.app</a> | LinkedIn: <a href="https://linkedin.com/in/alexander-gavrylov-604a33272">linkedin.com/in/alexander-gavrylov-604a33272</a> | <a href="https://drive.google.com/file/d/18oZMgSG6pd5j5AOaxJlrkuW1sZWsToC4/view?usp=sharing">Resume</a>
++380 67 123 4567 | Email: <a href="mailto:gavrylovalexandr@gmail.com">gavrylovalexandr@gmail.com</a> | Portfolio: <a href="https://alexgavrylov.vercel.app">alexgavrylov.vercel.app</a> | LinkedIn: <a href="https://linkedin.com/in/alexander-gavrylov-604a33272">linkedin.com/in/alexander-gavrylov-604a33272</a> | <a href="https://drive.google.com/file/d/18oZMgSG6pd5j5AOaxJlrkuW1sZWsToC4/view?usp=sharing">Resume</a> | Telegram:  <a href="https://t.me/@Aleksandr3l2">@Aleksandr3l2</a>
 </p>
 
 <br>
