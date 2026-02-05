@@ -42,7 +42,7 @@
 - 🇬🇧 **English** — B2 (Upper-Intermediate)
 - 🇰🇷 **Korean** — Currently learning
 
-# 🌐 Social Media
+# 🌐 Social & Community
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.6/app/ci.min.css" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@master/app/ci.min.css" />
