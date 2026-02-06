@@ -1,9 +1,10 @@
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px">, I'm Alexander Gavrylov</h1>
+<h1 align="center">Hi, I'm Alexander <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"></h1>
 
 <p align="center">
 +380 67 123 4567 | Email: <a href="mailto:gavrylovalexandr@gmail.com">gavrylovalexandr@gmail.com</a> | Portfolio: <a href="https://alexgavrylov.vercel.app">alexgavrylov.vercel.app</a> | LinkedIn: <a href="https://linkedin.com/in/alexander-gavrylov-604a33272">linkedin.com/in/alexander-gavrylov-604a33272</a> | <a href="https://drive.google.com/file/d/18oZMgSG6pd5j5AOaxJlrkuW1sZWsToC4/view?usp=sharing">Resume</a> | Telegram:  <a href="https://t.me/Aleksandr3l2">@Aleksandr3l2</a>
++380 67 123 4567 | <a href="mailto:gavrylovalexandr@gmail.com">gavrylovalexandr@gmail.com</a> | Portfolio: <a href="https://alexgavrylov.vercel.app">alexgavrylov.vercel.app</a> | LinkedIn: <a href="https://linkedin.com/in/alexander-gavrylov-604a33272">linkedin.com/in/alexander-gavrylov-604a33272</a> | <a href="https://drive.google.com/file/d/18oZMgSG6pd5j5AOaxJlrkuW1sZWsToC4/view?usp=sharing">Resume/CV</a>
 </p>
 
 <br>
@@ -97,7 +98,47 @@
   </a>
 </p>
 
-# 🎓 Education & Certifications
+<br>
+<br>
+
+### 👨‍💻 Full-Stack Developer | Computer Science Student\*\*
+
+**Alexander Gavrylov** — Software Engineer specializing in full-stack web development with production-ready applications currently serving real users.
+
+### 🎯 Core Expertise
+
+- **Technical Skills:** JavaScript, TypeScript, HTML, CSS, SQL
+- **Libraries:** React, Next.js, Redux, TailwindCSS
+- **Frameworks:** Express.js, NestJS
+- **Developer Tools:** Git, Docker, GitHub Actions, Postman
+- **Platforms:** AWS, Azure, Vercel, Netlify
+
+### 📌 Current Status
+
+- 🎓 CS Bachelor @ National University «Odessa Polytechnic» (2024-2027)
+- 📜 Certified Front-End Developer (Hillel IT School - Level 1 & 2)
+- 🚀 Building production applications with modern tech stack
+- 🔧 Open-source contributor with active public repositories
+
+### 💼 What I Bring
+
+- ✅ Practical experience with React, TypeScript, Node.js in real-world projects
+- ✅ Strong foundation in algorithms, OOP, operating systems, and DBMS
+- ✅ Self-learner with proven ability to master new technologies quickly
+- ✅ Collaborative team player with clean, maintainable code practices
+
+### 🌍 Languages
+
+- 🇺🇦 **Ukrainian** — Native
+- 🇷🇺 **Russian** — Native
+- 🇬🇧 **English** — B2 (Upper-Intermediate)
+- 🇰🇷 **Korean** — Currently learning
+  <br>
+  <br>
+  <br>
+  <br>
+
+# Education & Certifications
 
 | 🏢 **National University «Odessa Polytechnic»**                                          | 🧑‍💻 **Hillel IT School**                                                                                                                                             |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -125,70 +166,71 @@
 | [⌨️ Programming Fonts](https://github.com/AlexKim71/Programming-Fonts.git) | Premium monospaced fonts collection featuring Fira Code, JetBrains Mono with ligature support      | 22-08-24 to 15-03-26 | ⭐ 27 |
 
 <h3 align="center">💬 Ask me about anything <a href="https://www.tiktok.com/@aleksandrk1m">here</a></h3>
+<br>
 
 # 💻 Technologies & Tools:
 
-### Frontend Stack
+> Frontend Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwindcss,bootstrap,javascript,ts,"  style="width: 550px;" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwindcss,bootstrap," />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,npm,pnpm,vite,figma,photoshop,"  style="width: 550px;" />
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,ts,react,nextjs,redux," />
 </p>
-
-### Backend Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,javascript,postgresql,prisma,redis,graphql,postman," style="width: 700px;" />
+<p>
+  <img src="https://skillicons.dev/icons?i=npm,pnpm,vite,figma,photoshop," />
 </p>
 
-### Programming Languages(Hands-on Experience)
+> Backend Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,javascript,ts,java,go,php," style="width: 700px;"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,javascript,postgresql,prisma,redis,graphql,postman," />
 </p>
 
-### Operation Systems
+> Programming Languages(Hands-on Experience)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu," style="width: 400px;"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,javascript,ts,java,go,php,"/>
 </p>
 
-### Code Editors
+> Operation Systems
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,vim,sublime,rider,idea,webstorm,pycharm,phpstorm,clion," style="width: 700px;" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,"/>
 </p>
 
-### Terminal & Shells
+> Code Editors
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,powershell," style="width: 300px;" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,vim,sublime,rider,idea,webstorm,pycharm,phpstorm,clion," />
 </p>
 
-### DevOps & Cloud Infrastructure
+> Terminal & Shells
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,github,git,githubactions,gitlab,vercel,netlify,aws,azure,gcp,nginx" style="width: 700px;" />
+<p>
+  <img src="https://skillicons.dev/icons?i=bash,powershell," />
 </p>
 
-### Productivity Software
+> DevOps & Cloud Infrastructure
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=notion,gmail,obsidian," style="width: 300px;" />
-<p/>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,github,git,githubactions,gitlab,vercel,netlify,aws,azure,gcp,nginx" />
+</p>
 
-<div align="center">
+> Productivity Software
+
+<p>
+  <img src="https://skillicons.dev/icons?i=notion,gmail,obsidian," />
+</p>
+<br>
+<br>
+<br>
+<br>
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=AlexKim71&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=AlexKim71&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKim71&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-![](https://activity-graph.herokuapp.com/graph?username=AlexKim71&theme=github-dark&hide_border=true&area=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexKim71&theme=algolia)
 
 ## 🏆 GitHub Trophies
 
