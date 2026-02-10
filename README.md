@@ -2,6 +2,12 @@
 
 <h1 align="center">Hi there, I'm Alexander <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"></h1>
 
+<div align="center">
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AlexKim71&data=followers,repositories,stars,commits&theme=rgb)](https://github.com/Jurredr/github-widgetbox)
+
+</div>
+
 <p align="center">
 +380 67 123 4567 | <a href="mailto:gavrylovalexandr@gmail.com">alexaaandrrre2024@gmail.com</a> | <a href="https://alexgavrylov.vercel.app">Portfolio</a> | <a href="https://drive.google.com/file/d/18oZMgSG6pd5j5AOaxJlrkuW1sZWsToC4/view?usp=sharing">Resume/CV</a> | Telegram: <a href="https://t.me/Aleksandr3l2">Aleksandr3l2</a> | Discord: <a href="/">alex_kiim</a>
 </p>
@@ -105,22 +111,86 @@
 
 # 🏫 University Repositories
 
-| Title                                                                                         | Description                                                     | Date                 | Stars |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | -------------------- | ----- |
-| [IoT](https://github.com/AlexKim71/IoT/tree/main)                                             | Internet of Things practical projects and sensor integrations   | 09-09-24 to 12-12-25 | ⭐ 8  |
-| [DBMS](https://github.com/AlexKim71/DBMS)                                                     | Database Management Systems coursework with SQL implementations | 15-02-24 to 05-06-25 | ⭐ 12 |
-| [OOP](https://github.com/AlexKim71/OOP)                                                       | Object-Oriented Programming concepts and design patterns        | 01-09-24 to 20-05-25 | ⭐ 15 |
-| [Operating Systems](https://github.com/AlexKim71/Operating-Systems)                           | Operating Systems course materials and practical assignments    | 10-09-24 to 25-05-25 | ⭐ 10 |
-| [Algorithmization and Programming](https://github.com/AlexKim71/university_programming-works) | Programming fundamentals and algorithmic problem solving        | 01-09-24 to 30-12-24 | ⭐ 18 |
-| [Theory of Algorithms](https://github.com/AlexKim71/Theory-of-Algorithms)                     | Algorithm theory implementations and complexity analysis        | 12-02-25 to 15-05-26 | ⭐ 9  |
+<table>
+  <colgroup>
+    <col style="width: 40%;" />
+    <col style="width: 40%;" />
+    <col style="width: 20%;" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Stars</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/AlexKim71/IoT/tree/main">IoT</a></td>
+      <td>Internet of Things practical projects and sensor integrations</td>
+      <td>⭐ 8</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AlexKim71/DBMS">DBMS</a></td>
+      <td>Database Management Systems coursework with SQL implementations</td>
+      <td>⭐ 12</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AlexKim71/OOP">OOP</a></td>
+      <td>Object-Oriented Programming concepts and design patterns</td>
+      <td>⭐ 15</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AlexKim71/Operating-Systems">Operating Systems</a></td>
+      <td>Operating Systems course materials and practical assignments</td>
+      <td>⭐ 10</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AlexKim71/university_programming-works">Algorithmization and Programming</a></td>
+      <td>Programming fundamentals and algorithmic problem solving</td>
+      <td>⭐ 18</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AlexKim71/Theory-of-Algorithms">Theory of Algorithms</a></td>
+      <td>Algorithm theory implementations and complexity analysis</td>
+      <td>⭐ 9</td>
+    </tr>
+  </tbody>
+</table>
 
 # 📂 Public Repositories
 
-| Title                                                                      | Description                                                                                        | Date                 | Stars |
-| -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------- | ----- |
-| [🎨 Wallpapers Hub](https://github.com/AlexKim71/Wallpapers-Hub)           | High-resolution wallpaper collection with categorized themes for desktop and mobile customization  | 05-03-24 to 20-01-26 | ⭐ 45 |
-| [⚙️ Dotfiles Setup](https://github.com/AlexKim71/Dotfiles-Collections)     | Personal development environment configs including Zsh, Vim, Git settings with quick setup scripts | 18-06-24 to 10-11-25 | ⭐ 32 |
-| [⌨️ Programming Fonts](https://github.com/AlexKim71/Programming-Fonts.git) | Premium monospaced fonts collection featuring Fira Code, JetBrains Mono with ligature support      | 22-08-24 to 15-03-26 | ⭐ 27 |
+<table>
+  <colgroup>
+    <col style="width: 40%;" />
+    <col style="width: 40%;" />
+    <col style="width: 20%;" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Stars</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/AlexKim71/Wallpapers-Hub">🎨 Wallpapers Hub</a></td>
+      <td>High-resolution wallpaper collection with categorized themes for desktop and mobile customization</td>
+      <td>⭐ 45</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AlexKim71/Dotfiles-Collections">⚙️ Dotfiles Setup</a></td>
+      <td>Personal development environment configs including Zsh, Vim, Git settings with quick setup scripts</td>
+      <td>⭐ 32</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AlexKim71/Programming-Fonts.git">⌨️ Programming Fonts</a></td>
+      <td>Premium monospaced fonts collection featuring Fira Code, JetBrains Mono with ligature support</td>
+      <td>⭐ 27</td>
+    </tr>
+  </tbody>
+</table>
 
 <h3 align="center">💬 Ask me about anything <a href="https://www.tiktok.com/@aleksandrk1m">here</a></h3>
 
@@ -197,20 +267,40 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexKim71&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+# 🔝 Top Contributed Repos & Streak
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=AlexKim71&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repos" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexKim71&theme=tokyonight" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
+
 # 🏆 GitHub Trophies
 
 ![Codewars](https://www.codewars.com/users/Alex123123/badges/large)  
 ![](https://github-profile-trophy.vercel.app/?username=AlexKim71&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-# ✍️ Random Dev Quote
+[![user:25813303's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/25813303?theme=cobalt&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+# Developer Fun Corner
 
-# 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=AlexKim71&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=AlexKim71&icon=0&color=1)](https://visitcount.itsvg.in)
+<table>
+  <tr>
+    <td>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+    </td>
+    <td>
+      <a href="https://readme-jokes.vercel.app">
+        <img src="https://readme-jokes.vercel.app/api" alt="README jokes" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 # 💰 You can help me by Donating
 
