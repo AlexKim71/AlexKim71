@@ -80,26 +80,119 @@
 - **Developer Tools:** Git, Docker, GitHub Actions, Postman
 - **Platforms:** AWS, Azure, Vercel, Netlify
 
-### 📌 Current Status
-
-- 🎓 CS Bachelor @ National University «Odessa Polytechnic» (2024-2027)
-- 📜 Certified Front-End Developer (Hillel IT School - Level 1 & 2)
-- 🚀 Building production applications with modern tech stack
-- 🔧 Open-source contributor with active public repositories
-
-### 💼 What I Bring
-
-- ✅ Practical experience with React, TypeScript, Node.js in real-world projects
-- ✅ Strong foundation in algorithms, OOP, operating systems, and DBMS
-- ✅ Self-learner with proven ability to master new technologies quickly
-- ✅ Collaborative team player with clean, maintainable code practices
-
 ### 🌍 Languages
 
 - 🇺🇦 **Ukrainian** — Native
 - 🇷🇺 **Russian** — Native
 - 🇬🇧 **English** — B2 (Upper-Intermediate)
 - 🇰🇷 **Korean** — Currently learning
+
+# 💻 Technologies & Tools:
+
+> Frontend Stack & Tools
+
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:10px;">
+  <img src="./assets/icons/skills/html5.svg" alt="HTML5" width="48" height="48" />
+  <img src="./assets/icons/skills/css3.svg" alt="CSS3" width="48" height="48" />
+  <img src="./assets/icons/skills/Sass.png" alt="SASS" width="69" height="48" />
+  <img src="./assets/icons/skills/TailwindCSS.svg" alt="TailwindCSS" width="48" height="48" />
+  <img src="./assets/icons/skills/Bootstrap.svg" alt="Bootstrap" width="48" height="48" />
+  <img src="./assets/icons/skills/Javascript.svg" alt="JavaScript" width="48" height="48" />
+  <img src="./assets/icons/skills/TypeScript.svg" alt="TypeScript" width="48" height="48" />
+  <img src="./assets/icons/skills/React.png" alt="React" width="55" height="48" />
+  <img src="./assets/icons/skills/nextjs2.svg" alt="Next.js" width="48" height="48" />
+  <img src="./assets/icons/skills/Redux.svg" alt="Redux" width="48" height="48" />
+  <img src="./assets/icons/skills/jQuery.svg" alt="jQuery" width="48" height="48" />
+  <img src="./assets/icons/skills/Npm-logo.png" alt="NPM" width="50" height="24" />
+  <img src="./assets/icons/skills/pnpm.svg" alt="PNPM" width="48" height="48" />
+  <img src="./assets/icons/skills/vitejs.svg" alt="Vite" width="48" height="48" />
+</p>
+
+> Backend Stack
+
+<p align="center">
+  <img src="./assets/icons/skills/NodeJs.svg" alt="Node.js" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/nestjs.svg" alt="NestJS" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/postgresql.svg" alt="PostgreSQL" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/mongodb.svg" alt="MongoDB" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/redis.svg" alt="Redis" width="48" height="48" />
+</p>
+
+> Programming Languages (Hands-on Experience)
+
+<p align="center">
+  <img src="./assets/icons/skills/Java.png" alt="Java" width="60" height="60" />
+  &nbsp;
+  <img src="./assets/icons/skills/C%2B%2B.png" alt="C++" width="44" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/C.png" alt="C" width="44" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/C_sharp.png" alt="C#" width="44" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/Python.png" alt="Python" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/GO.svg" alt="Go" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/PHP.svg" alt="PHP" width="60" height="60" />
+</p>
+
+> Operation Systems
+
+<p align="center">
+  <img src="./assets/icons/skills/Windows.svg" alt="Windows" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/Linux.svg" alt="Linux" width="48" height="48" />
+</p>
+
+> Code Editors & IDEs
+
+<p align="center">
+  <img src="./assets/icons/skills/Vim.svg" alt="Vim" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/sublime_text.png" alt="Sublime Text" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/intellij-idea.svg" alt="IntelliJ IDEA" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/WebStorm_Icon.png" alt="WebStorm" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/PyCharm_Icon.png" alt="PyCharm" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/Clion.png" alt="CLion" width="48" height="48" />
+</p>
+
+> Terminal & Shell
+
+<p align="center">
+  <img src="./assets/icons/skills/bash.svg" alt="Bash" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/powershell.svg" alt="PowerShell" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/zsh.avif" alt="Zsh" width="48" height="48" />
+</p>
+
+> DevOps & Cloud Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,github,git,githubactions,gitlab,vercel,netlify,aws,azure,gcp,nginx" />
+</p>
+
+> Productivity & Management
+
+<p align="center">
+  <img src="./assets/icons/skills/Notion.svg" alt="Notion" width="60" height="50" />
+  &nbsp;
+  <img src="./assets/icons/skills/miro.svg" alt="Miro" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/jira.svg" alt="Jira" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/trello.svg" alt="Trello" width="48" height="48" />
+</p>
+<br>
+<br>
 
 # Education & Certifications
 
@@ -194,64 +287,6 @@
 
 <h3 align="center">💬 Ask me about anything <a href="https://www.tiktok.com/@aleksandrk1m">here</a></h3>
 
-<br>
-<br>
-
-# 💻 Technologies & Tools:
-
-> Frontend Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwindcss,bootstrap," />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,ts,react,nextjs,redux," />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=npm,pnpm,vite,figma,photoshop," />
-</p>
-
-> Backend Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,javascript,postgresql,prisma,redis,graphql,postman," />
-</p>
-
-> Programming Languages(Hands-on Experience)
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,javascript,ts,java,go,php,"/>
-</p>
-
-> Operation Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,"/>
-</p>
-
-> Code Editors
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,vim,sublime,rider,idea,webstorm,pycharm,phpstorm,clion," />
-</p>
-
-> Terminal & Shells
-
-<p>
-  <img src="https://skillicons.dev/icons?i=bash,powershell," />
-</p>
-
-> DevOps & Cloud Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,github,git,githubactions,gitlab,vercel,netlify,aws,azure,gcp,nginx" />
-</p>
-
-> Productivity Software
-
-<p>
-  <img src="https://skillicons.dev/icons?i=notion,gmail,obsidian," />
-</p>
 <br>
 <br>
 
