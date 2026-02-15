@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexander-gavrylov-604a33272/" target="_blank" alt="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" style="width: 55px;"/>
+    <img src="./assets/icons/LinkedIn.svg" style="width: 55px;"/>
   </a>
   &nbsp;
   <a href="https://discordapp.com/users/1280099032403939338" target="_blank" alt="Discord">
@@ -91,27 +91,40 @@
 
 > Frontend Stack & Tools
 
-<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:10px;">
+<p align="center">
   <img src="./assets/icons/skills/html5.svg" alt="HTML5" width="48" height="48" />
+  &nbsp;
   <img src="./assets/icons/skills/css3.svg" alt="CSS3" width="48" height="48" />
+  &nbsp;
   <img src="./assets/icons/skills/Sass.png" alt="SASS" width="69" height="48" />
+  &nbsp;
   <img src="./assets/icons/skills/TailwindCSS.svg" alt="TailwindCSS" width="48" height="48" />
+  &nbsp;
   <img src="./assets/icons/skills/Bootstrap.svg" alt="Bootstrap" width="48" height="48" />
+  &nbsp;
   <img src="./assets/icons/skills/Javascript.svg" alt="JavaScript" width="48" height="48" />
+  &nbsp;
   <img src="./assets/icons/skills/TypeScript.svg" alt="TypeScript" width="48" height="48" />
+  &nbsp;
   <img src="./assets/icons/skills/React.png" alt="React" width="55" height="48" />
+  &nbsp;
   <img src="./assets/icons/skills/nextjs2.svg" alt="Next.js" width="48" height="48" />
+  &nbsp;
   <img src="./assets/icons/skills/Redux.svg" alt="Redux" width="48" height="48" />
+  &nbsp;
   <img src="./assets/icons/skills/jQuery.svg" alt="jQuery" width="48" height="48" />
-  <img src="./assets/icons/skills/Npm-logo.png" alt="NPM" width="50" height="24" />
+  &nbsp;
+  <img src="./assets/icons/skills/Npm-logo.png" alt="NPM" width="50" height="20" style="padding-bottom: 10px;"/>
+  &nbsp;
   <img src="./assets/icons/skills/pnpm.svg" alt="PNPM" width="48" height="48" />
+  &nbsp;
   <img src="./assets/icons/skills/vitejs.svg" alt="Vite" width="48" height="48" />
 </p>
 
 > Backend Stack
 
 <p align="center">
-  <img src="./assets/icons/skills/NodeJs.svg" alt="Node.js" width="48" height="48" />
+  <img src="./assets/icons/skills/NodeJs.svg" alt="Node.js" width="60" height="55" />
   &nbsp;
   <img src="./assets/icons/skills/nestjs.svg" alt="NestJS" width="48" height="48" />
   &nbsp;
@@ -127,13 +140,13 @@
 <p align="center">
   <img src="./assets/icons/skills/Java.png" alt="Java" width="60" height="60" />
   &nbsp;
-  <img src="./assets/icons/skills/C%2B%2B.png" alt="C++" width="44" height="48" />
+  <img src="./assets/icons/skills/C%2B%2B.png" alt="C++" width="50" height="55" />
   &nbsp;
-  <img src="./assets/icons/skills/C.png" alt="C" width="44" height="48" />
+  <img src="./assets/icons/skills/C.png" alt="C" width="50" height="55" />
   &nbsp;
-  <img src="./assets/icons/skills/C_sharp.png" alt="C#" width="44" height="48" />
+  <img src="./assets/icons/skills/C_sharp.png" alt="C#" width="50" height="55" />
   &nbsp;
-  <img src="./assets/icons/skills/Python.png" alt="Python" width="48" height="48" />
+  <img src="./assets/icons/skills/Python.png" alt="Python" width="55" height="55" />
   &nbsp;
   <img src="./assets/icons/skills/GO.svg" alt="Go" width="48" height="48" />
   &nbsp;
@@ -167,11 +180,11 @@
 > Terminal & Shell
 
 <p align="center">
-  <img src="./assets/icons/skills/bash.svg" alt="Bash" width="48" height="48" />
+  <img src="./assets/icons/skills/bash.svg" alt="Bash" width="55" height="50" />
   &nbsp;
-  <img src="./assets/icons/skills/powershell.svg" alt="PowerShell" width="48" height="48" />
+  <img src="./assets/icons/skills/powershell.svg" alt="PowerShell" width="55" height="50" />
   &nbsp;
-  <img src="./assets/icons/skills/zsh.avif" alt="Zsh" width="48" height="48" />
+  <img src="./assets/icons/skills/zsh.avif" alt="Zsh" width="55" height="50" />
 </p>
 
 > DevOps & Cloud Infrastructure
@@ -190,6 +203,38 @@
   <img src="./assets/icons/skills/jira.svg" alt="Jira" width="48" height="48" />
   &nbsp;
   <img src="./assets/icons/skills/trello.svg" alt="Trello" width="48" height="48" />
+</p>
+
+> Design & Prototyping
+
+<p align="center">
+  <img src="./assets/icons/skills/figma.svg" alt="Figma" width="48" height="48" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" width="55" height="50" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" width="55" height="50" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="55" height="50" />
+  &nbsp;
+  <img src="./assets/icons/skills/sketch.svg" alt="Sketch" width="50" height="48" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="55" height="50" />
+</p>
+
+> AI Automation & AI-Assisted Development
+
+<p align="center">
+  <img src="./assets/icons/skills/ChatGPT.svg" alt="ChatGPT" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/Claude.svg" alt="Claude" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/Copilot.svg" alt="Copilot" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/DeepSeek.svg" alt="DeepSeek" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/Gemini.svg" alt="Gemini" width="48" height="48" />
+  &nbsp;
+  <img src="./assets/icons/skills/Grok.svg" alt="Grok" width="55" height="50" />
 </p>
 <br>
 <br>
@@ -329,6 +374,8 @@
     <td>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://readme-jokes.vercel.app">
         <img src="https://readme-jokes.vercel.app/api" alt="README jokes" />
@@ -348,5 +395,5 @@
 </picture>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" alt="Bottom Line" width="100%" />
+  <img src="./assets/“Welcome to the place on the other side of midnight_” ― Mladen Đorđević.gif" alt="Bottom Line" width="100%" />
 </div>
