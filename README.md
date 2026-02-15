@@ -84,8 +84,11 @@
 
 - 🇺🇦 **Ukrainian** — Native
 - 🇷🇺 **Russian** — Native
-- 🇬🇧 **English** — B2 (Upper-Intermediate)
+- 🇬🇧 **English** — B1 (Intermediate)
 - 🇰🇷 **Korean** — Currently learning
+
+<br>
+<br>
 
 # 💻 Technologies & Tools:
 
@@ -241,11 +244,48 @@
 
 # Education & Certifications
 
-| 🏢 **National University «Odessa Polytechnic»**                                          | 🧑‍💻 **Hillel IT School**                                                                                                                                             |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [LinkedIn Page](https://www.linkedin.com/school/odessa-national-polytechnic-university/) | [LinkedIn Page](https://www.linkedin.com/school/odessa-national-polytechnic-university/)                                                                            |
-| **Bachelor of Science in "Computer Science"** <br> 1 September 2024 – June 2027          | **Certifications:** <br> [Front-end Level 1](https://certificate.ithillel.ua/view/99898576) <br> [Front-end Level 2](https://certificate.ithillel.ua/view/77626275) |
-| [📍 University Website📍 ](https://op.edu.ua/)                                           | [📍 IT School Website📍 ](https://ithillel.ua/)                                                                                                                     |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://certificate.ithillel.ua/view/22890652">
+          <img src="./assets/certificates/English%20intermediate_B1.png" alt="English B1 Certificate" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+        </a>
+        <br />
+        <sub><b>English Language Proficiency</b></sub>
+        <br />
+        <sub>Intermediate Level (B1)</sub>
+        <br />
+        <sub><a href="https://certificate.ithillel.ua/view/22890652">Certificate verification link</a></sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://certificate.ithillel.ua/view/99898576">
+          <img src="./assets/certificates/Front%20End%20for%20schoolchildren%20level%202.png" alt="Front End Level 2 Certificate" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+        </a>
+        <br />
+        <sub><b>Front-End Development</b></sub>
+        <br />
+        <sub>Advanced Course - Level 2</sub>
+        <br />
+        <sub><a href="https://certificate.ithillel.ua/view/99898576">Certificate verification link</a></sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://certificate.ithillel.ua/view/77626275">
+          <img src="./assets/certificates/Front%20End%20for%20schoolchildren.png" alt="Front End Level 1 Certificate" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+        </a>
+        <br />
+        <sub><b>Front-End Development</b></sub>
+        <br />
+        <sub>Introduction Course - Level 1</sub>
+        <br />
+        <sub><a href="https://certificate.ithillel.ua/view/77626275">Certificate verification link</a></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+</br>
+</br>
 
 # 🏫 University Repositories
 
@@ -337,11 +377,15 @@
 
 # 📊 GitHub activity statistics
 
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexKim71&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexKim71&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexKim71&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexKim71&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexKim71&theme=algolia&utcOffset=8)
+
+</div>
 
 # 📈 GitHub activity chart
 
@@ -362,14 +406,26 @@
 
 # 🏆 GitHub Trophies
 
+<table align="center">
+  <tr>
+    <td>
+
 ![Codewars](https://www.codewars.com/users/Alex123123/badges/large)  
 ![](https://github-profile-trophy.vercel.app/?username=AlexKim71&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+</td>
+<td>
+
 [![user:25813303's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/25813303?theme=cobalt&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
+
+</td>
+
+  </tr>
+</table>
 
 # Developer Fun Corner
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
