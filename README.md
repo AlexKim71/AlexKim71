@@ -32,7 +32,7 @@
     <img src="./assets/icons/facebook.png" style="width:55px;" />
   </a>
   &nbsp;
-  <a href="https://x.com/Ol36486Gavrilov" target="_blank" alt="X">
+  <a href="https://x.com/Alexander01fq" target="_blank" alt="X">
     <img src="./assets/icons/X.svg" style="width: 55px; height: 55px;"/>
   </a>
   &nbsp;
