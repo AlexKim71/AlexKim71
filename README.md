@@ -318,6 +318,11 @@
       <td>Object-Oriented Programming concepts and design patterns</td>
       <td>⭐ 15</td>
     </tr>
+     <tr>
+      <td><a href="https://github.com/AlexKim71/Web_Development">Web Development</a></td>
+      <td>Object-Oriented Programming concepts and design patterns</td>
+      <td>⭐ 15</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/AlexKim71/Operating-Systems">Operating Systems</a></td>
       <td>Operating Systems course materials and practical assignments</td>
