@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
+<img src="./assets/“Welcome to the place on the other side of midnight_” ― Mladen Đorđević.gif" align="center" alt="Banner" width="100%" />
 
 <h1 align="center">Hi there, I'm Alexander <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"></h1>
 
@@ -454,7 +454,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexKim71/AlexKim71/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlexKim71/AlexKim71/output/pacman-contribution-graph.svg">
 </picture>
-
-<div align="center">
-  <img src="./assets/“Welcome to the place on the other side of midnight_” ― Mladen Đorđević.gif" alt="Bottom Line" width="100%" />
-</div>
