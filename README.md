@@ -323,6 +323,11 @@
       <td>Hands-on practice in building responsive websites and designing user interfaces. Exploring the intersection of clean code and effective web aesthetics.</td>
       <td>⭐ 15</td>
     </tr>
+     <tr>
+      <td><a href="https://github.com/AlexKim71/CAD_Technologies">CAD Technologies</a></td>
+      <td>Focused on the practical application of computer-aided tools for engineering and design. Specialized in creating detailed 2D/3D technical models and optimizing project workflows through modern software solutions       </td>
+      <td>⭐ 15</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/AlexKim71/Operating-Systems">Operating Systems</a></td>
       <td>Operating Systems course materials and practical assignments</td>
