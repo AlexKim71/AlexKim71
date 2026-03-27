@@ -318,6 +318,11 @@
       <td>Object-Oriented Programming concepts and design patterns</td>
       <td>⭐ 15</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/AlexKim71/Modern-DBMS">Modern DBMS</a></td>
+      <td>A collection of SQL and PL/SQL scripts developed within the Oracle 26ai environment. Focused on modern database architecture and data management techniques. Tools: Oracle SQL Developer.</td>
+      <td>⭐ 15</td>
+    </tr>
      <tr>
       <td><a href="https://github.com/AlexKim71/Web_Development">Web Development</a></td>
       <td>Hands-on practice in building responsive websites and designing user interfaces. Exploring the intersection of clean code and effective web aesthetics.</td>
