@@ -210,19 +210,14 @@
 
 > Design & Prototyping
 
-<p align="center">
-  <img src="./assets/icons/skills/figma.svg" alt="Figma" width="48" height="48" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" width="55" height="50" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" width="55" height="50" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="55" height="50" />
-  &nbsp;
-  <img src="./assets/icons/skills/sketch.svg" alt="Sketch" width="50" height="48" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="55" height="50" />
-</p>
+<div align="center">
+  <img src="./assets/icons/skills/figma.svg" alt="Figma" width="48" height="48"/>
+  <img src="./assets/icons/skills/xd.svg" alt="Adobe XD" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="48" height="48"/>
+  <img src="./assets/icons/skills/sketch.svg" alt="Sketch" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=canva" alt="Canva" width="48" height="48"/>
+</div>
 
 > AI Automation & AI-Assisted Development
 
@@ -239,6 +234,7 @@
   &nbsp;
   <img src="./assets/icons/skills/Grok.svg" alt="Grok" width="55" height="50" />
 </p>
+
 <br>
 <br>
 
