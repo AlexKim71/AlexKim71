@@ -211,9 +211,9 @@
 > Design & Prototyping
 
 <div align="center">
-  <img src="./assets/icons/skills/figma.svg" alt="Figma" width="48" height="48"/>
+  <img src="./assets/icons/skills/Figma.svg" alt="Figma" width="48" height="48"/>
   <img src="./assets/icons/skills/xd.svg" alt="Adobe XD" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" width="48" height="48"/>
+  <img src="./assets/icons/skills/" alt="Photoshop" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="48" height="48"/>
   <img src="./assets/icons/skills/sketch.svg" alt="Sketch" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=canva" alt="Canva" width="48" height="48"/>
