@@ -295,54 +295,44 @@
     <tr>
       <th>Title</th>
       <th>Description</th>
-      <th>Stars</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/AlexKim71/IoT/tree/main">IoT</a></td>
+      <td><a href="https://github.com/AlexKim71/IoT/tree/main">Інструментальні засоби систем IoT</a></td>
       <td>Internet of Things practical projects and sensor integrations</td>
-      <td>⭐ 8</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AlexKim71/DBMS">DBMS</a></td>
+      <td><a href="https://github.com/AlexKim71/DBMS">Організація баз даних та знань</a></td>
       <td>Database Management Systems coursework with SQL implementations</td>
-      <td>⭐ 12</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AlexKim71/OOP">OOP</a></td>
+      <td><a href="https://github.com/AlexKim71/OOP">Об’єктно-орієнтоване програмування</a></td>
       <td>Object-Oriented Programming concepts and design patterns</td>
-      <td>⭐ 15</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AlexKim71/Modern-DBMS">Modern DBMS</a></td>
+      <td><a href="https://github.com/AlexKim71/Modern-DBMS">Сучасні системи управління БД</a></td>
       <td>A collection of SQL and PL/SQL scripts developed within the Oracle 26ai environment. Focused on modern database architecture and data management techniques. Tools: Oracle SQL Developer.</td>
-      <td>⭐ 15</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/AlexKim71/Web_Development">Web Development</a></td>
+      <td><a href="https://github.com/AlexKim71/Web_Development">Веб-технології та веб-дизайн</a></td>
       <td>Hands-on practice in building responsive websites and designing user interfaces. Exploring the intersection of clean code and effective web aesthetics.</td>
-      <td>⭐ 15</td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/AlexKim71/CAD-Technologies">CAD Technologies</a></td>
-      <td>Focused on the practical application of computer-aided tools for engineering and design. Specialized in creating detailed 2D/3D technical models and optimizing project workflows through modern software solutions       </td>
-      <td>⭐ 15</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AlexKim71/Operating-Systems">Operating Systems</a></td>
+      <td><a href="https://github.com/AlexKim71/CAD-Technologies">Технології комп’ютерного проектування</a></td>
+      <td>Focused on the practical application of computer-aided tools for engineering and design. Specialized in creating detailed 2D/3D technical models and optimizing project workflows through modern software solutions 
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AlexKim71/Operating-Systems">Операційні системи</a></td>
       <td>Operating Systems course materials and practical assignments</td>
-      <td>⭐ 10</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AlexKim71/university_programming-works">Algorithmization and Programming</a></td>
+      <td><a href="https://github.com/AlexKim71/university_programming-works">Алгоритмізація та програмування</a></td>
       <td>Programming fundamentals and algorithmic problem solving</td>
-      <td>⭐ 18</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AlexKim71/Theory-of-Algorithms">Theory of Algorithms</a></td>
+      <td><a href="https://github.com/AlexKim71/Theory-of-Algorithms">Теорія алгоритмів</a></td>
       <td>Algorithm theory implementations and complexity analysis</td>
-      <td>⭐ 9</td>
     </tr>
   </tbody>
 </table>
@@ -359,24 +349,20 @@
     <tr>
       <th>Title</th>
       <th>Description</th>
-      <th>Stars</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/AlexKim71/Wallpapers-Hub">🎨 Wallpapers Hub</a></td>
       <td>High-resolution wallpaper collection with categorized themes for desktop and mobile customization</td>
-      <td>⭐ 45</td>
     </tr>
     <tr>
       <td><a href="https://github.com/AlexKim71/Dotfiles-Collections">⚙️ Dotfiles Setup</a></td>
       <td>Personal development environment configs including Zsh, Vim, Git settings with quick setup scripts</td>
-      <td>⭐ 32</td>
     </tr>
     <tr>
       <td><a href="https://github.com/AlexKim71/Programming-Fonts.git">⌨️ Programming Fonts</a></td>
       <td>Premium monospaced fonts collection featuring Fira Code, JetBrains Mono with ligature support</td>
-      <td>⭐ 27</td>
     </tr>
   </tbody>
 </table>
