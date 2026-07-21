@@ -36,7 +36,7 @@
     <img src="./assets/icons/X.svg" style="width: 55px; height: 55px;"/>
   </a>
   &nbsp;
-  <a href="https://t.me/@Aleksandr3l2" target="_blank" alt="Telegram">
+  <a href="https://t.me/Aleksandr3l2" target="_blank" alt="Telegram">
     <img src="./assets/icons/Telegram.svg" style="width: 55px; height: 55px;" />
   </a>
   &nbsp;
