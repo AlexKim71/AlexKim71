@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-+380 67 123 4567 | <a href="mailto:gavrylovalexandr@gmail.com">alexaaandrrre2024@gmail.com</a> | <a href="https://alexgavrylov.vercel.app">Portfolio</a> | <a href="https://drive.google.com/file/d/18oZMgSG6pd5j5AOaxJlrkuW1sZWsToC4/view?usp=sharing">Resume/CV</a> | Telegram: <a href="https://t.me/Aleksandr3l2">Aleksandr3l2</a> | Discord: <a href="/">alex_kiim</a>
++380 67 123 4567 | <a href="mailto:gavrylovalexandr@gmail.com">alexaaandrrre2024@gmail.com</a> | <a href="https://app.notion.com/p/alexandergavrilov/Alexander-Gavrylov-CV-3a408a1f997e80d8b853f1e7332a50ae">Portfolio</a> | <a href="https://drive.google.com/file/d/18oZMgSG6pd5j5AOaxJlrkuW1sZWsToC4/view?usp=sharing">Resume/CV</a> | Telegram: <a href="https://t.me/Aleksandr3l2">Aleksandr3l2</a> | Discord: <a href="/">alex_kiim</a>
 </p>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.6/app/ci.min.css" />
