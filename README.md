@@ -1,5 +1,4 @@
 <img src="./assets/“Welcome to the place on the other side of midnight_” ― Mladen Đorđević.gif" align="center" alt="Banner" width="100%" />
-
 <h1 align="center">Hi there, I'm Alexander <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"></h1>
 
 <div align="center">
@@ -424,7 +423,7 @@
   
 [![Leetcode Stats](https://leetcard.jacoblin.cool/KbSmywZUN7?theme=dark&ext=heatmap)](https://leetcode.com/u/KbSmywZUN7/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexKim71&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![3D Contribution Calendar](./profile-3d-contrib/profile-night-view.svg)
 
 </div>
 
@@ -436,7 +435,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://readme-jokes.vercel.app">
         <img src="https://readme-jokes.vercel.app/api" alt="README jokes" />
       </a>
