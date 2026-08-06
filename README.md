@@ -371,34 +371,17 @@
 <br>
 <br>
 
-# 📊 GitHub activity statistics
+# 📊 GitHub activity statistics 
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexKim71&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexKim71&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexKim71&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexKim71&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexKim71&theme=algolia&utcOffset=8)
-
-</div>
-
-# 📈 GitHub activity chart
+![3D Contribution Calendar](./profile-3d-contrib/profile-night-view.svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexKim71&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# 🔝 Top Contributed Repos & Streak
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexKim71&theme=tokyonight" alt="GitHub streak" />
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=AlexKim71&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repos" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexKim71&theme=tokyonight" alt="GitHub streak" />
-    </td>
-  </tr>
-</table>
+</div>
 
 # 🏆 GitHub Trophies
 
@@ -422,8 +405,6 @@
 <div align="center">
   
 [![Leetcode Stats](https://leetcard.jacoblin.cool/KbSmywZUN7?theme=dark&ext=heatmap)](https://leetcode.com/u/KbSmywZUN7/)
-
-![3D Contribution Calendar](./profile-3d-contrib/profile-night-view.svg)
 
 </div>
 
