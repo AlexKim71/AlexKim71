@@ -420,8 +420,15 @@
   </tr>
 </table>
 
-# Developer Fun Corner
+<div align="center">
+  
+[![Leetcode Stats](https://leetcard.jacoblin.cool/KbSmywZUN7?theme=dark&ext=heatmap)](https://leetcode.com/u/KbSmywZUN7/)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexKim71&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+# Developer Fun Corner
 <table align="center">
   <tr>
     <td>
