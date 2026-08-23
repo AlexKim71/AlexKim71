@@ -2,8 +2,8 @@ name: Update Trophies
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Запускается каждый день
-  workflow_dispatch: # Кнопка для ручного запуска
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-trophies:
@@ -17,12 +17,13 @@ jobs:
       - name: Download Trophies SVG
         run: |
           mkdir -p profile
-          curl -o profile/trophies.svg "https://github-profile-trophy.vercel.app/?username=AlexKim71&theme=radical&column=7&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
+          curl -L -f -o profile/trophies.svg "https://github-profile-trophy.vercel.app/?username=AlexKim71&theme=radical&column=7&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
+          ls -la profile/
 
       - name: Commit and push changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/trophies.svg
-          git commit -m "Update GitHub Trophies" || exit 0
+          git commit -m "Update GitHub Trophies" || echo "No changes to commit"
           git push
