@@ -1,11 +1,10 @@
-<img src="./assets/“Welcome to the place on the other side of midnight_” ― Mladen Đorđević.gif" align="center" alt="Banner" width="100%" />
-<h1 align="center">Hi there, I'm Alexander <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"></h1>
-
-<div align="center">
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AlexKim71&data=followers,repositories,stars,commits&theme=rgb)](https://github.com/Jurredr/github-widgetbox)
-
-</div>
+```
+ ███  █     █████ █   █  ███  █   █ ████  █████ ████      ███   ███  █   █ ████  █   █ █      ███  █   █ 
+█   █ █     █      █ █  █   █ ██  █ █   █ █     █   █    █     █   █ █   █ █   █  █ █  █     █   █ █   █ 
+█████ █     ████    █   █████ █ █ █ █   █ ████  ████     █  ██ █████ █   █ ████    █   █     █   █ █   █ 
+█   █ █     █      █ █  █   █ █  ██ █   █ █     █  █     █   █ █   █  █ █  █  █    █   █     █   █  █ █  
+█   █ █████ █████ █   █ █   █ █   █ ████  █████ █   █     ███  █   █   █   █   █   █   █████  ███    █    
+```   
 
 <p align="center">
 +380 67 123 4567 | <a href="mailto:gavrylovalexandr@gmail.com">alexaaandrrre2024@gmail.com</a> | <a href="https://app.notion.com/p/alexandergavrilov/Alexander-Gavrylov-CV-3a408a1f997e80d8b853f1e7332a50ae">Portfolio</a> | <a href="https://drive.google.com/file/d/18oZMgSG6pd5j5AOaxJlrkuW1sZWsToC4/view?usp=sharing">Resume/CV</a> | Telegram: <a href="https://t.me/Aleksandr3l2">Aleksandr3l2</a> | Discord: <a href="/">alex_kiim</a>
