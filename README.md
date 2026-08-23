@@ -381,11 +381,9 @@
 
 ![GitHub Streak](profile/streak-custom.svg)
 
-![GitHub Trophies](profile/trophies.svg)
-
 </div>
 
-# 🏆 GitHub Trophies
+#  ⭐ GitHub Achievements
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -393,7 +391,7 @@
   </a>
 </div>
 
-# 🏆 GitHub Trophies
+#  💀 Beyond GitHub
 
 <table align="center">
   <tr>
@@ -418,7 +416,7 @@
 
 </div>
 
-# Developer Fun Corner
+# 🎉 Developer Fun Corner
 <table align="center">
   <tr>
     <td>
