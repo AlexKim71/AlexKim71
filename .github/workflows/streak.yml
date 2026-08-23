@@ -1,0 +1,28 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Запускается каждый день в полночь по UTC
+  workflow_dispatch: # Добавляет кнопку для ручного запуска
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Дает скрипту права на сохранение файла
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download custom streak stats SVG
+        run: |
+          mkdir -p profile
+          curl -o profile/streak-custom.svg "https://streak-stats.demolab.com?user=AlexKim71&border_radius=1&timezone=Europe%2FKyiv&fire=1F6FEB&ring=1F6FEB&currStreakLabel=1F6FEB&sideNums=1F6FEB&background=000000&excludeDaysLabel=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&border=FFFFFF"
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/streak-custom.svg
+          git commit -m "Update streak stats widget" || exit 0
+          git push
