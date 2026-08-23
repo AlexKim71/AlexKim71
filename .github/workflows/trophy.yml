@@ -1,0 +1,28 @@
+name: Update Trophies
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-trophies:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download Trophies SVG
+        run: |
+          mkdir -p profile
+          curl -L -f -o profile/trophies.svg "https://github-trophies.vercel.app/?username=AlexKim71&theme=radical&column=7&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/trophies.svg
+          git commit -m "Update GitHub Trophies" || echo "No changes to commit"
+          git push
