@@ -381,6 +381,8 @@
 
 ![GitHub Streak](profile/streak-custom.svg)
 
+![GitHub Trophies](profile/trophies.svg)
+
 </div>
 
 # 🏆 GitHub Trophies
