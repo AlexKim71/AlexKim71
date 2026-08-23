@@ -387,6 +387,14 @@
 
 # 🏆 GitHub Trophies
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=AlexKim71&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" width="800" alt="GitHub Trophies" />
+  </a>
+</div>
+
+# 🏆 GitHub Trophies
+
 <table align="center">
   <tr>
     <td>
