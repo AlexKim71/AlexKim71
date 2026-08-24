@@ -55,14 +55,6 @@ projects:
     arm: 0
     description: 'My GitHub Profile'
 
-stats:
-  metrics:
-    - 'commits'
-    - 'stars'
-    - 'prs'
-    - 'issues'
-    - 'repos'
-
 languages:
   exclude: []
   max_display: 5
