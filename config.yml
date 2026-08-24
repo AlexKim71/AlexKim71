@@ -19,6 +19,14 @@ social:
   linkedin: 'nyxorion' # Замени на свой реальный LinkedIn, если есть
   website: ''
 
+status:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
 # Galaxy arms represent your core focus areas
 galaxy_arms:
   - name: 'Backend'
@@ -54,3 +62,4 @@ stats:
 languages:
   exclude: []
   max_display: 5
+ 
