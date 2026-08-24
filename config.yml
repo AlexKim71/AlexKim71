@@ -21,11 +21,11 @@ social:
 
 status:
   metrics:
-    - "commits"
-    - "stars"
-    - "prs"
-    - "issues"
-    - "repos"
+    - 'commits'
+    - 'stars'
+    - 'prs'
+    - 'issues'
+    - 'repos'
 
 # Galaxy arms represent your core focus areas
 galaxy_arms:
@@ -51,15 +51,18 @@ galaxy_arms:
 # Если тебе нужен только баннер (Galaxy Header), мы оставляем эти секции пустыми
 # или отключаем сбор лишней статистики.
 projects:
-  - repo: "AlexKim71/AlexKim71"
+  - repo: 'AlexKim71/AlexKim71'
     arm: 0
-    description: "My GitHub Profile"
+    description: 'My GitHub Profile'
 
 stats:
   metrics:
-    - "commits"
+    - 'commits'
+    - 'stars'
+    - 'prs'
+    - 'issues'
+    - 'repos'
 
 languages:
   exclude: []
   max_display: 5
- 
