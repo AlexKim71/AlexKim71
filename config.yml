@@ -42,11 +42,15 @@ galaxy_arms:
 
 # Если тебе нужен только баннер (Galaxy Header), мы оставляем эти секции пустыми
 # или отключаем сбор лишней статистики.
-projects: []
+projects:
+  - repo: "AlexKim71/AlexKim71"
+    arm: 0
+    description: "My GitHub Profile"
 
 stats:
-  metrics: []
+  metrics:
+    - "commits"
 
 languages:
   exclude: []
-  max_display: 0
+  max_display: 5
