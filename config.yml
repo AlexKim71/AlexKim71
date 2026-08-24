@@ -1,0 +1,52 @@
+# Galaxy Profile README Configuration
+# Your GitHub username (required)
+username: AlexKim71
+
+# Profile information displayed in the galaxy header
+profile:
+  name: 'Alexander Gavrylov'
+  tagline: 'Full-Stack Developer (PHP/Laravel & React)'
+  company: 'Odesa Polytechnic'
+  location: 'Odesa, Ukraine'
+  bio: |
+    Building efficient backend architectures and dynamic user interfaces.
+    Specializing in Laravel, Filament CMS, and AI-enhanced applications.
+  philosophy: '"Clean code and solid architecture make the web a better place."'
+
+# Social links displayed at the bottom of the profile
+social:
+  email: 'gavrylovalexandr@gmail.com'
+  linkedin: 'nyxorion' # Замени на свой реальный LinkedIn, если есть
+  website: ''
+
+# Galaxy arms represent your core focus areas
+galaxy_arms:
+  - name: 'Backend'
+    color: 'synapse_cyan'
+    items:
+      - 'PHP 8'
+      - 'Laravel 11'
+      - 'MySQL / PostgreSQL'
+  - name: 'Frontend'
+    color: 'dendrite_violet'
+    items:
+      - 'React'
+      - 'TypeScript'
+      - 'Tailwind CSS'
+  - name: 'Tools & CMS'
+    color: 'axon_amber'
+    items:
+      - 'Filament CMS'
+      - 'Docker'
+      - 'Git / GitHub Actions'
+
+# Если тебе нужен только баннер (Galaxy Header), мы оставляем эти секции пустыми
+# или отключаем сбор лишней статистики.
+projects: []
+
+stats:
+  metrics: []
+
+languages:
+  exclude: []
+  max_display: 0
